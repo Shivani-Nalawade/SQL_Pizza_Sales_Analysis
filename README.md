@@ -8,7 +8,8 @@ Before diving into the specific questions, let's briefly describe the dataset:
 Tables: We'll work with several tables, including an Orders table, a Pizzas table, and potentially other related tables.
 Columns: Key columns include order_id, pizza_id, quantity, price, size, and order_date.
 
-#Basic Questions
+# Basic Questions
+
 Retrieve the total number of orders placed
 
 Calculate the total revenue generated from pizza sales
